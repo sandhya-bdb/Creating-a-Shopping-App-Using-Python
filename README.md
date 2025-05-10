@@ -1,4 +1,48 @@
-# Creating-a-Shopping-App-Using-Python
-I have developed a shopping application or e-commerce application which has login and public login features on the Python platform. The applications that have been developed also include categories, such as 3–4 for footwear, clothing, electronics, etc. It is possible to add and update categories in the application. Additionally, it  contains a feature that allows  to add or remove items from the cart. Finally, the program supports a variety of payment options, including UPI and debit cards. (This is only backend implementation, and UX/UI and database connectivity are not done)
+🛍️ Creating a Shopping App Using Python
 
-![image](https://github.com/user-attachments/assets/79c0995c-70ac-41cb-a65f-7feaa26b220c)
+📘 Overview
+This project presents a backend implementation of a console-based shopping (e-commerce) application developed in Python. It simulates core functionalities of an online retail platform, including user authentication, product categorization, cart management, and payment processing.
+
+🎯 Features
+User Authentication:
+
+Supports both registered user login and public (guest) access.
+
+Basic credential verification for secure access.
+
+Product Categories:
+
+Predefined categories such as:
+
+Footwear
+
+Clothing
+
+Electronics
+
+Functionality to add and update categories dynamically.
+
+Cart Management:
+
+Add items to the shopping cart.
+
+Remove items from the cart.
+
+View current cart contents.
+
+Payment Processing:
+
+Simulated payment options including:
+
+UPI
+
+Debit Card
+
+Note: Payment processing is simulated for demonstration purposes.
+
+🛠️ Technologies Used
+Programming Language: Python 3.x
+
+Development Environment: Console-based application
+
+Note: This project focuses solely on backend logic. No GUI or database integrations are included
